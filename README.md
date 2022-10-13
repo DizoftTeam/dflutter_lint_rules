@@ -1,6 +1,6 @@
 # DFlutter Lint Rules
 
-[![Pub Version](https://img.shields.io/pub/v/surf_lint_rules?logo=dart&logoColor=white)](https://pub.dev/packages/dflutter_lint_rules)
+[![Pub Version](https://img.shields.io/pub/v/dflutter_lint_rules?logo=dart&logoColor=white)](https://pub.dev/packages/dflutter_lint_rules)
 [![Pub Likes](https://badgen.net/pub/likes/dflutter_lint_rules)](https://pub.dev/packages/dflutter_lint_rules)
 [![Pub popularity](https://badgen.net/pub/popularity/dflutter_lint_rules)](https://pub.dev/packages/dflutter_lint_rules/score)
 ![Dart Platform](https://badgen.net/pub/dart-platform/dflutter_lint_rules)

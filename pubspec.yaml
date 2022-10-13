@@ -1,7 +1,7 @@
 name: dflutter_lint_rules
 description: Lint rules for "Dizoft Team" company for Dart and Flutter projects.
 
-version: 1.0.0
+version: 1.0.0+1
 
 repository: "https://github.com/DizoftTeam/dflutter_lint_rules"
 issue_tracker: "https://github.com/DizoftTeam/dflutter_lint_rules/issues"
