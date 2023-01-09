@@ -35,6 +35,10 @@ All notable changes to this project will be documented in [this file](./CHANGELO
 
 To report your issues, file directly in the Issues section.
 
+## Known issues
+
+- [] Add more analysis options for `dart_code_metrics` >= 5.0.0
+
 ## License
 
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
