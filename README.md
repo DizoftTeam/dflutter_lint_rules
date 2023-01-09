@@ -16,7 +16,7 @@ Add `dflutter_lint_rules` as dependency to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  dflutter_lint_rules: ^1.0.1+1
+  dflutter_lint_rules: ^1.0.1+2
 ```
 
 ## Example
@@ -34,6 +34,10 @@ All notable changes to this project will be documented in [this file](./CHANGELO
 ## Issues
 
 To report your issues, file directly in the Issues section.
+
+## Known issues
+
+- [] Add more analysis options for `dart_code_metrics` >= 5.0.0
 
 ## License
 
