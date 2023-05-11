@@ -62,9 +62,6 @@ linter:
     use_to_and_as_if_applicable: true
 
 analyzer:
-  strong-mode:
-    implicit-casts: true # Если поставить false - то весь проект будет не рабочим
-
   plugins:
     - dart_code_metrics
 
