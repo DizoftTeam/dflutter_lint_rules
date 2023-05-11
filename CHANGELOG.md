@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.0+0
+
+- Update Dart sdk version to ">=2.14.0 <4.0.0"
+- Remove `implicit-casts`
+
 ## 1.0.1+2
 
 Update dependencies
