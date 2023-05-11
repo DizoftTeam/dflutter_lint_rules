@@ -80,16 +80,19 @@ dart_code_metrics:
         severity: style
     - long-parameter-list:
         severity: style
+
   metrics:
     cyclomatic-complexity: 20
     maximum-nesting-level: 10
     number-of-parameters: 4
     source-lines-of-code: 50
+
   metrics-exclude:
     - test/**
     - integraton_test/**
     - widgetbook/**
     - lib/inject.config.dart
+
   rules:
 
     # Common
