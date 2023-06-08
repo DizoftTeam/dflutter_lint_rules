@@ -16,7 +16,7 @@ Add `dflutter_lint_rules` as dependency to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  dflutter_lint_rules: ^1.0.1+2
+  dflutter_lint_rules: ^2.0.1
 ```
 
 ## Example
