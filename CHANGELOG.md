@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.2
+
+Update deps
+
 ## 2.0.1
 
 Added new rules for Pubspec, Provider, Common, Flutter parts

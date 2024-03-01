@@ -154,7 +154,6 @@ dart_code_metrics:
     - prefer-semver-version
 
     # Flutter
-    - avoid-late-context
     - avoid-inherited-widget-in-initstate
     - avoid-incomplete-copy-with
     - avoid-expanded-as-spacer
